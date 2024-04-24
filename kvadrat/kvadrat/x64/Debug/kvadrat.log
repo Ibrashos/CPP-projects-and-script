@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Feed the Machine\cpp\kvadrat\main.cpp(22,13): error C2450: a switch expression of type 'double' is not valid
+  F:\Feed the Machine\cpp\kvadrat\main.cpp(22,13):
+  Integral expression required
+  
